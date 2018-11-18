@@ -23,10 +23,10 @@ If you use the codes in this repo, please cite our [WMT18 paper](http://aclweb.o
 Install 
 ==
     sklearn 
-    pytorch 0.4.1
+    pytorch >= 0.4.0
     scipy
     scipy.stats
-
+    conda env create --file wmt-qe-py3.5-pt4.0.txt
 
 Download Data
 ==
